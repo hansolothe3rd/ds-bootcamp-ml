@@ -8,9 +8,22 @@ This phase focuses on **Machine Learning (ML) fundamentals**, applying concepts 
 ## 📅 Roadmap
 
 ### Day 21 – Introduction to Machine Learning
-- What is ML? Types: Supervised vs. Unsupervised.
-- First ML pipeline walkthrough with scikit-learn.
-- Mini Project: Predict housing prices with Linear Regression.
+
+**Concepts Covered:**
+- What is Machine Learning? Supervised vs. Unsupervised.
+- The ML workflow: data prep → training → evaluation.
+- Introduction to regression with real housing data.
+
+**Practice:**
+- Loaded the California Housing dataset (`fetch_california_housing`).
+- Split data into training/testing sets.
+- Trained and evaluated a Linear Regression model.
+
+**Mini Project: Predict California Housing Prices**
+- Built a regression model on the California dataset.
+- Evaluated model with MSE and R² score.
+- Identified important features driving housing prices.
+
 
 ### Day 22 – Linear Regression Deep Dive
 - Assumptions, coefficients, R², residuals.
