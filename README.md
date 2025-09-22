@@ -25,10 +25,25 @@ This phase focuses on **Machine Learning (ML) fundamentals**, applying concepts 
 - Identified important features driving housing prices.
 
 
-### Day 22 – Linear Regression Deep Dive
-- Assumptions, coefficients, R², residuals.
-- Practice with simple + multiple regression.
-- Mini Project: Predict car prices with multiple features.
+## Day 22 – Linear Regression Deep Dive (Ames Housing)
+
+**Concepts Covered:**
+- Multiple Linear Regression.
+- Model assumptions: linearity, independence, homoscedasticity, normality, multicollinearity.
+- Metrics: MSE, R² Score.
+
+**Practice:**
+- Loaded Ames Housing dataset from OpenML.
+- Trained multiple regression using numeric features.
+- Evaluated model with MSE and R².
+- Visualized residuals and feature importance.
+
+**Mini Project: Predict House Prices (Variation)**
+- Built regression model with a subset of 10 features.
+- Compared reduced vs full-feature model.
+- Plotted actual vs predicted prices.
+- Reflected on most important predictors of house prices.
+
 
 ### Day 23 – Logistic Regression
 - Classification basics, decision boundaries, odds/logits.
