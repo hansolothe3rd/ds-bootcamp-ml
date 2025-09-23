@@ -45,10 +45,25 @@ This phase focuses on **Machine Learning (ML) fundamentals**, applying concepts 
 - Reflected on most important predictors of house prices.
 
 
-### Day 23 – Logistic Regression
-- Classification basics, decision boundaries, odds/logits.
-- Practice with binary classification.
-- Mini Project: Predict Titanic survival.
+## Day 23 – Logistic Regression (Classification)
+
+**Concepts Covered:**
+- Logistic Regression for binary classification.
+- Key metrics: Accuracy, Precision, Recall, F1 Score, ROC-AUC.
+- Model assumptions: linearity of log-odds, independence, low multicollinearity.
+
+**Practice:**
+- Loaded Titanic dataset and preprocessed missing values and categorical features.
+- Trained Logistic Regression model.
+- Evaluated using accuracy, classification report, ROC-AUC.
+- Plotted confusion matrix for visual assessment.
+
+**Mini Project: Titanic Survival Prediction (Variation)**
+- Built model using a subset of features.
+- Compared performance to full-feature model.
+- Visualized predicted probabilities.
+- Reflected on most important predictors of survival.
+
 
 ### Day 24 – k-Nearest Neighbors (k-NN)
 - Distance-based models, curse of dimensionality.
