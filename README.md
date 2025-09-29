@@ -83,10 +83,25 @@ This phase focuses on **Machine Learning (ML) fundamentals**, applying concepts 
 - Reflected on the impact of k choice and weighting on accuracy
 
 
-### Day 25 – Decision Trees
-- Gini vs. Entropy, tree depth, overfitting.
-- Visualization of decision boundaries.
-- Mini Project: Build a decision tree classifier.
+## Day 25 – Decision Trees & Random Forests
+
+**Concepts Covered:**
+- Decision Trees for classification
+- Gini impurity & entropy
+- Overfitting in trees
+- Random Forest ensembles
+- Feature importance visualization
+
+**Practice:**
+- Implemented a Decision Tree on Titanic dataset
+- Visualized the tree structure
+
+**Mini Project: Titanic Survival Prediction**
+- Tasked with building Decision Tree & Random Forest
+- Compare their accuracy and confusion matrices
+- Visualize feature importance
+- Reflection on model performance
+
 
 ### Day 26 – Random Forests
 - Ensemble methods, bagging, feature importance.
