@@ -103,10 +103,23 @@ This phase focuses on **Machine Learning (ML) fundamentals**, applying concepts 
 - Reflection on model performance
 
 
-### Day 26 – Random Forests
-- Ensemble methods, bagging, feature importance.
-- Compare single trees vs. forests.
-- Mini Project: Predict diabetes outcomes.
+## Day 26 – Logistic Regression (Multiclass) & Evaluation Metrics
+
+**Concepts Covered:**
+- Logistic Regression for classification
+- Multiclass strategies (OvR, multinomial)
+- Evaluation metrics: accuracy, precision, recall, F1
+- Confusion matrices
+
+**Practice:**
+- Trained a multinomial Logistic Regression on the Iris dataset
+- Evaluated using classification report & confusion matrix
+
+**Mini Project: Multiclass Wine Classification**
+- Tasked with training a Logistic Regression on the Wine dataset
+- Evaluate with classification report & confusion matrix
+- Reflect on which classes were hardest to predict
+
 
 ### Day 27 – Support Vector Machines (SVM)
 - Margin maximization, kernels, soft margins.
