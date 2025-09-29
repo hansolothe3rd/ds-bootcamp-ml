@@ -121,10 +121,24 @@ This phase focuses on **Machine Learning (ML) fundamentals**, applying concepts 
 - Reflect on which classes were hardest to predict
 
 
-### Day 27 – Support Vector Machines (SVM)
-- Margin maximization, kernels, soft margins.
-- Practice with linear + RBF kernels.
-- Mini Project: Handwritten digit recognition (MNIST subset).
+## Day 27 – Support Vector Machines & Kernel Tricks
+
+**Concepts Covered:**
+- SVM for classification
+- Linear and non-linear kernels
+- Maximum-margin hyperplanes
+- Support vectors and regularization
+
+**Practice:**
+- Trained SVM with linear kernel on Iris dataset
+- Evaluated with classification report and confusion matrix
+- Visualized predictions
+
+**Mini Project: SVM Wine Classification**
+- Train linear and RBF SVM on Wine dataset
+- Compare performance and misclassifications
+- Reflect on kernel choice, class performance, and support vectors
+
 
 ### Day 28 – Clustering (Unsupervised Learning)
 - k-Means, silhouette score, elbow method.
