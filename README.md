@@ -65,10 +65,23 @@ This phase focuses on **Machine Learning (ML) fundamentals**, applying concepts 
 - Reflected on most important predictors of survival.
 
 
-### Day 24 – k-Nearest Neighbors (k-NN)
-- Distance-based models, curse of dimensionality.
-- Hyperparameter tuning with GridSearch.
-- Mini Project: Classify wine quality (scaled dataset).
+## Day 24 – K-Nearest Neighbors (KNN)
+
+**Concepts Covered:**
+- KNN for classification
+- Distance metrics and number of neighbors
+- Weighted vs unweighted voting
+
+**Practice:**
+- Built KNN classifier on Titanic dataset
+- Compared accuracy and confusion matrix with different k values
+
+**Mini Project: KNN on Titanic**
+- Trained and compared models with k=3 and k=7
+- Plotted confusion matrices
+- Experimented with distance weighting
+- Reflected on the impact of k choice and weighting on accuracy
+
 
 ### Day 25 – Decision Trees
 - Gini vs. Entropy, tree depth, overfitting.
