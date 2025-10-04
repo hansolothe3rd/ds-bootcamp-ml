@@ -140,9 +140,24 @@ This phase focuses on **Machine Learning (ML) fundamentals**, applying concepts 
 - Reflect on kernel choice, class performance, and support vectors
 
 
-### Day 28 – Clustering (Unsupervised Learning)
-- k-Means, silhouette score, elbow method.
-- Mini Project: Customer segmentation.
+## Day 28 – Feature Scaling & PCA
+
+**Concepts Covered:**
+- Standardization and normalization
+- PCA for dimensionality reduction
+- Explained variance and component choice
+
+**Practice:**
+- Scaled Iris dataset
+- Applied PCA (2D)
+- Visualized separability of classes
+- Checked explained variance ratio
+
+**Mini Project: PCA on Wine Dataset**
+- Scaled features and applied PCA
+- Compared Logistic Regression performance on full vs reduced dataset
+- Reflected on trade-offs of PCA
+
 
 ### Day 29 – PCA (Dimensionality Reduction)
 - Eigenvalues, eigenvectors, explained variance.
