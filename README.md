@@ -159,9 +159,25 @@ This phase focuses on **Machine Learning (ML) fundamentals**, applying concepts 
 - Reflected on trade-offs of PCA
 
 
-### Day 29 – PCA (Dimensionality Reduction)
-- Eigenvalues, eigenvectors, explained variance.
-- Mini Project: Visualize high-dimensional data.
+## Day 29 – Clustering: K-Means & Hierarchical
+
+**Concepts Covered:**
+- Unsupervised learning and clustering
+- K-Means algorithm
+- Hierarchical clustering (intro)
+- Elbow Method and Silhouette Score
+
+**Practice:**
+- Ran K-Means on Iris dataset
+- Compared cluster metrics
+- Visualized elbow and silhouette curves
+
+**Mini Project: Customer Segmentation**
+- Used K-Means to cluster mall customers
+- Identified optimal cluster count
+- Visualized and interpreted cluster segments
+- Reflected on business applications
+
 
 ### Day 30 – Major Project: ML Pipeline
 - End-to-end ML workflow: data cleaning, scaling, feature selection, model training, evaluation.
