@@ -179,10 +179,26 @@ This phase focuses on **Machine Learning (ML) fundamentals**, applying concepts 
 - Reflected on business applications
 
 
-### Day 30 – Major Project: ML Pipeline
-- End-to-end ML workflow: data cleaning, scaling, feature selection, model training, evaluation.
-- Suggested Dataset: Wine Quality, Titanic, or a real-world dataset of your choice.
-- Deliverable: Full Jupyter notebook + README write-up.
+## Day 30 – Capstone: End-to-End Data Science Project
+
+**Focus:**
+Bringing together all skills from Repo 3:
+- Data cleaning & preprocessing  
+- Feature engineering  
+- Visualization & exploration  
+- Supervised & unsupervised learning  
+- Evaluation & interpretation  
+
+**Mini Capstone Options:**
+- Wine Quality Prediction (Regression)  
+- Titanic Survival (Classification)  
+- Mall Customer Segmentation (Clustering)  
+
+**Deliverables:**
+- Complete Jupyter notebook with code, visuals, and written analysis  
+- Clear reflection section  
+- Polished data workflow start to finish
+
 
 ---
 
@@ -194,12 +210,3 @@ This phase focuses on **Machine Learning (ML) fundamentals**, applying concepts 
 
 ---
 
-## 🎯 Major Project (Day 30)
-At the end of Repo 3, you’ll build a **complete ML pipeline**:
-- Load & clean data.
-- Explore & preprocess.
-- Train multiple ML models.
-- Evaluate & compare performance.
-- Present insights & recommendations.
-
----
